@@ -1,1 +1,1 @@
-teks1 = "Hallo, Selamat datang di dunia R!"
+teks1 = "Halo, Selamat datang di dunia R!"
