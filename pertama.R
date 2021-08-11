@@ -100,3 +100,12 @@ mydata <- data.frame(id,nama,skor)
 #menambah nama kolom
 names(mydata) <- c("x,y,z")
 print(mydata)
+
+# mengambil kolom 1 sampai 3
+mydata[1:3]
+
+# mengambil kolom dengan nama "ID" dan "Nilai"
+mydata[c("ID","Nilai")]
+
+# mengambil satu kolom dengan nama "Nilai”
+mydata$Nilai
